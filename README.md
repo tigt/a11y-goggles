@@ -18,5 +18,5 @@ Might become a bookmarklet or extension.
 Originally derived from [ChromeLens](https://github.com/chromelens/chromelens).
 
 Also see:
-* [http://colortest.it/](colortest.it)
-* [https://accessgarage.wordpress.com/2013/02/09/458/](NoCoffee – Vision Simulator for Chrome)
+* [colortest.it](http://colortest.it/)
+* [NoCoffee – Vision Simulator for Chrome](https://accessgarage.wordpress.com/2013/02/09/458/)
